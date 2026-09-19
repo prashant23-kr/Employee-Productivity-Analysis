@@ -29,10 +29,6 @@ IF(Tasks Completed/Tasks Assigned>=95%,"Excellent","Satisfactory"))
 - IF Function
 - Tables
 
-## Project Screenshot
-
-![Dashboard](images/dashboard.png)
-
 ## Author
 
 Prashant Kumar
